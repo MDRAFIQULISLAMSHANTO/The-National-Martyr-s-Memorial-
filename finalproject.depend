@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1620112939 source:c:\users\asus\desktop\final project\main.cpp
+	<iostream>
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<mmsystem.h>
+
+1526093414 d:\software\codeblocks\mingw\include\gl\gl.h
+	<windows.h>
+	<stddef.h>
+
+976692172 d:\software\codeblocks\mingw\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1526093414 d:\software\codeblocks\mingw\include\gl\glu.h
+	<GL/gl.h>
+
+1636428721 source:c:\users\shaha\onedrive\desktop\12th semester\cg\final\final project\main.cpp
+	<iostream>
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<mmsystem.h>
+
+1637827669 source:e:\projects\cg\final project\the national martyrs' memorial\main.cpp
+	<GL/gl.h>
+	<GL/glut.h>
+	<math.h>
+	<windows.h>
+
+1639407564 source:d:\necessary for the city\6th semester\final term\computer graphics\group project\final project\the national martyrs' memorial\main.cpp
+	<GL/gl.h>
+	<GL/glut.h>
+	<math.h>
+	<windows.h>
+
